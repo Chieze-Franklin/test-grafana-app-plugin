@@ -1,4 +1,3 @@
-# Example App -  Native Plugin
+# Calyptia App Plugin
 
-This is an example app.  It has no real use other than making sure external apps are supported.
-
+This app provides ready-made Calyptia dashboards.

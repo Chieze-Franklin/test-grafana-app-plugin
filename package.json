@@ -1,7 +1,7 @@
 {
   "name": "simple-app",
   "version": "1.0.0",
-  "description": "Grafana App Plugin Template",
+  "description": "A Grafana app that provides ready-made Calyptia dashboards",
   "scripts": {
     "build": "grafana-toolkit plugin:build",
     "test": "grafana-toolkit plugin:test",

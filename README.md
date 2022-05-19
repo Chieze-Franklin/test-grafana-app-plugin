@@ -1,8 +1,6 @@
 # Grafana App Plugin Template
 
-[![Build](https://github.com/grafana/grafana-starter-app/workflows/CI/badge.svg)](https://github.com/grafana/grafana-starter-app/actions?query=workflow%3A%22CI%22)
-
-This template is a starting point for building Grafana App Plugins in Grafana 7.0+
+A Grafana app that provides ready-made Calyptia dashboards.
 
 ## Getting started
 
@@ -36,3 +34,4 @@ This template is a starting point for building Grafana App Plugins in Grafana 7.
 - [Grafana documentation](https://grafana.com/docs/)
 - [Grafana Tutorials](https://grafana.com/tutorials/) - Grafana Tutorials are step-by-step guides that help you make the most of Grafana
 - [Grafana UI Library](https://developers.grafana.com/ui) - UI components to help you build interfaces using Grafana Design System
+- [Starter App](https://github.com/grafana/grafana-starter-app)

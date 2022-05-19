@@ -4,11 +4,11 @@ import { AppPlugin, AppRootProps } from '@grafana/data';
 import { ExamplePage1 } from './config/ExamplePage1';
 import { ExamplePage2 } from './config/ExamplePage2';
 import { ExampleRootPage } from './ExampleRootPage';
-import { ExampleAppSettings } from './types';
+import { AppSettings } from './types';
 
 export { ExampleConfigCtrl as ConfigCtrl };
 
-export const plugin = new AppPlugin<ExampleAppSettings>()
+export const plugin = new AppPlugin<AppSettings>()
   .setRootPage((ExampleRootPage as unknown) as ComponentClass<AppRootProps>)
   .addConfigPage({
     title: 'Page 1',
